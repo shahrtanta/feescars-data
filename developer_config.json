@@ -1,0 +1,81 @@
+{
+  "developer": {
+    "name": "وائل كمال تركى",
+    "title": "مطور برمجيات ومصمم محتوى",
+    "bio": "مصمم محتوى الموقع ومطور برمجيات، مهتم بريادة الأعمال وإيجاد حلول تقنية تُسهِّل العمل اليومي. أعمل في مجال تطوير البرمجيات وتصميم تجربة المستخدم، وأسعى دائماً لتقديم منتجات عملية تفيد المستخدم العربي.",
+    "profileImage": "https://wkt-info.com/assets/profile.png",
+    "jobTitle": "مدير عام الشئون المالية والادارية - الشهر العقارى - مكتب طنطا",
+    "skills": [
+      "تصميم وتطوير المواقع",
+      "تطوير تطبيقات الموبايل",
+      "برمجة Java و Kotlin",
+      "إدارة قواعد البيانات",
+      "تصميم واجهات المستخدم"
+    ],
+    "social": {
+      "facebook": {
+        "label": "فيسبوك",
+        "url": "https://www.facebook.com/wael.k.turkey",
+        "appUri": "fb://facewebmodal/f?href=https://www.facebook.com/wael.k.turkey"
+      },
+      "twitter": {
+        "label": "تويتر / X",
+        "url": "https://twitter.com/TurkyWael",
+        "appUri": "twitter://user?screen_name=TurkyWael"
+      },
+      "youtube": {
+        "label": "يوتيوب",
+        "url": "https://www.youtube.com/channel/UCZgmnjy4rB_3QTiCsqSGuog",
+        "appUri": "vnd.youtube://channel/UCZgmnjy4rB_3QTiCsqSGuog"
+      },
+      "website": {
+        "label": "الموقع الرسمي",
+        "url": "https://www.wkt-info.com/",
+        "appUri": ""
+      }
+    },
+    "contact": {
+      "email": {
+        "label": "البريد الإلكتروني",
+        "address": "wael.turkey@gmail.com",
+        "url": "mailto:wael.turkey@gmail.com"
+      },
+      "website": {
+        "label": "الموقع الرسمي",
+        "url": "https://www.wkt-info.com/"
+      }
+    },
+    "projects": [
+      {
+        "name": "برنامج إدارة مكاتب المحاماة",
+        "description": "نظام متكامل لإدارة مكاتب المحاماة والموكلين والقضايا",
+        "url": "https://www.wkt-info.com/"
+      },
+      {
+        "name": "تطبيق مرتبي كام؟",
+        "description": "احسب مرتبك الشهري بعد الخصومات والضرائب بسهولة",
+        "url": "https://play.google.com/store/apps/details?id=wkt.salary"
+      },
+      {
+        "name": "برنامج رواتب الموظفين",
+        "description": "برنامج شامل لإدارة رواتب الموظفين وكشوف المرتبات",
+        "url": "https://www.wkt-info.com/"
+      },
+      {
+        "name": "تطبيق رسوم السيارات",
+        "description": "احسب رسوم ترخيص وتجديد السيارات بدقة وسرعة",
+        "url": "https://play.google.com/store/apps/details?id=wkt.FessCars"
+      },
+      {
+        "name": "تطبيق رسوم التوثيق",
+        "description": "دليل رسوم التوثيق بالشهر العقاري المصري",
+        "url": "https://play.google.com/store/apps/details?id=wkt.s.allfeesofshahr"
+      },
+      {
+        "name": "برنامج المراجعة المالية",
+        "description": "نظام مراجعة وتدقيق الحسابات والعمليات المالية",
+        "url": "https://www.wkt-info.com/"
+      }
+    ]
+  }
+}
