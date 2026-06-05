@@ -57,11 +57,6 @@
         "url": "https://play.google.com/store/apps/details?id=wkt.salary"
       },
       {
-        "name": "برنامج رواتب الموظفين",
-        "description": "برنامج شامل لإدارة رواتب الموظفين وكشوف المرتبات",
-        "url": "https://www.wkt-info.com/"
-      },
-      {
         "name": "تطبيق رسوم السيارات",
         "description": "احسب رسوم تسجيل السيارات بالشهر العقارى بدقة وسرعة",
         "url": "https://play.google.com/store/apps/details?id=wkt.FessCars"
@@ -70,6 +65,11 @@
         "name": "تطبيق رسوم التوثيق",
         "description": "دليل رسوم التوثيق بالشهر العقاري المصري",
         "url": "https://play.google.com/store/apps/details?id=wkt.s.allfeesofshahr"
+      },
+      {
+        "name": "برنامج رواتب الموظفين",
+        "description": "برنامج شامل لإدارة رواتب الموظفين وكشوف المرتبات",
+        "url": "https://www.wkt-info.com/"
       },
       {
         "name": "برنامج المراجعة المالية",
